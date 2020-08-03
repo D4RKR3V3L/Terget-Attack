@@ -36,15 +36,9 @@ def runntxt(s):
 def banner():
     os.system('clear')
     print " "
-    print(" 💗💞Assalamu walaikum💞 💗")
+    print(" 💗💞Assalamu walaikum💞 ")
    
-runntxt(WW+"╭╮╮╱▔▔▔▔╲╭╭╮"
-runntxt(WW+"          ╰╲╲▏▂╲╱▂▕╱╱╯"
-runntxt(GG+"  ┈┈╲▏▇▏▕▇▕╱┈┈ "
-runntxt(WW+"┈┈╱╲▔▕▍▔╱╲┈┈"
-runntxt(GG+"  ╭╱╱▕╋╋╋╋▏╲╲╮"
-runntxt(Y+"      ╰╯╯┈╲▂▂╱┈╰╰╯"
- 
+
 	print (" Black Whale Cyber Source Team")
     time.sleep(1.5)
     print GG+"  √=============================================√"
