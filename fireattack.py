@@ -1,4 +1,4 @@
-#!usr/python2
+#!usr
 # -*- coding: UTF-8 -*-
 # mod by: Dark Revel Rakib_vau
 # team: Black Whale Cyber Source Team
@@ -37,7 +37,7 @@ def banner():
     os.system('clear')
     print " "
     print(" 💗💞Assalamu walaikum💞 💗")
-    print "
+    print "\033[1;93m
     
 ╭╮╮╱▔▔▔▔╲╭╭╮
 ╰╲╲▏▂╲╱▂▕╱╱╯
@@ -50,7 +50,7 @@ def banner():
 	   
     time.sleep(1.5)
     print GG+"  √=============================================√"
-    print GL+"  |�👉👉NEW TOOLS HACK FACEBOOK BF👈👈|"
+    print GL+"  |?👉👉NEW TOOLS HACK FACEBOOK BF👈👈|"
     print GG+"  √=================👹👹👹👹============================√"
     print WW+"  | 👉👉Mod by Dark Revel👈👈  |"
     print GL+"  |       Black Whale Team       |"
