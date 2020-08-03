@@ -38,7 +38,6 @@ def banner():
     print " "
     print(" 💗💞Assalamu walaikum💞 💗")
    
-			print("  👉👉👉Black Whale Cyber Source Team👈👈👈")
 	   
     time.sleep(1.5)
     print GG+"  √=============================================√"
