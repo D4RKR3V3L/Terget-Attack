@@ -36,9 +36,9 @@ def runntxt(s):
 def banner():
     os.system('clear')
     print " "
-    runntxt(GL+"      💞💞Assalamu walaikum💞💞")
-    runntxt(WW+"                    ╭╮╮╱▔▔▔▔╲╭╭╮
-"
+    runntxt(GL+"     💞💞Assalamu walaikum💞 ")
+    runntxt(WW+'                     ╭╮╮╱▔▔▔▔╲╭╭╮
+'
     runntxt(GL+"                       ╰╲╲▏▂╲╱▂▕╱╱╯
 "
     runntxt(GG+"                       ┈┈╲▏▇▏▕▇▕╱┈┈ "
