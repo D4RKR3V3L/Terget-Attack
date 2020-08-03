@@ -37,9 +37,7 @@ def banner():
     os.system('clear')
     print " "
     print(" 💗💞Assalamu walaikum💞 ")
-   
-
-	print (" Black Whale Cyber Source Team")
+  
     time.sleep(1.5)
     print GG+"  √=============================================√"
     print GL+"  |?👉👉NEW TOOLS HACK FACEBOOK BF👈👈|"
