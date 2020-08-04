@@ -128,7 +128,7 @@ def iqbalz(iqbalz_password):
 	         	print (RR+"#\033[97m ID / Email Target:\033[92m {}").format(email_target)
         	        print (RR+"#\033[97m Password Target:\033[92m {}").format(iqbalz_password)
         	        print " "
-        	        raw_input(WW+"TEKAN ENTER UNTUK KELUAR...")
+        	        raw_input(WW+"Log in This account in Id code and Password ...")
 			sys.exit(1)
   
   
